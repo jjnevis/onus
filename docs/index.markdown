@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="/assets/img/onus-plus-logo.jpg" alt="onus plus logo" >
