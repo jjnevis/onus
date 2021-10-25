@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Notes
 ---
 
 Onus is bootstrapped. If people or institutions want to invest in Onus then they have to donate money or time.
