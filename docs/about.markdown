@@ -8,7 +8,7 @@ This is the story of how we save the world.
 
 The story starts 260 years ago when Adam Smith created what would become the theory on which all economic activity is based. Some might recognise the term "the invisible hand". It was brilliant and for many years created wealth and prosperity. Unbeknownst to most it had a flaw that would become a ticking time bomb. You see, Adam Smith believed that the world had an infitite capacity to absorb waste. BOOM.
 
-Fortunately, some 160 years later another brilliant economist named Arthur Cecil Pigou realised this error and proposed a fix. You simply have to include the clean up cost into the overall cost of your economic activity. Unfortunately he called it a tax and because of this it has largely been ignored for 100 years. Until now.
+Fortunately, some 160 years later another brilliant economist named Arthur Cecil Pigou realised this error and proposed a fix. You simply have to include the clean up cost in the overall cost of your economic activity. Unfortunately he called it a tax and because of this it has largely been ignored for 100 years. Until now.
 
 Paradigm shifts happen when the global collective conciousness realigns it's understanding behind a new truth. Moving from a flat earth to a spherical earth would be one example of this.
 

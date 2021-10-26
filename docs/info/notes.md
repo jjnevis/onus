@@ -5,8 +5,9 @@ layout: page
 Onus is bootstrapped. If people or institutions want to invest in Onus then they have to donate money or time.
 Insulate Britain - if it's the right thing to do, then it should be done. This is the purpose of Onus.
 Onus bakes in the true cost of resource consumption. You don't run a kitchen without a pot washer, eventually you run out of pots, so you have to include the cost of cleaning pots when running a kitchen
-Just 1% of annual revenue from fossil fuel mining is 60 billion dollars.
-We've got to stop asking world leaders to solve the problem for us, that has not worked.
+Just 1% of annual revenue from fossil fuel mining is 60 billion dollars. 15% is nearly 1 trillion dollars.
+
+We've got to stop asking world leaders to solve the problem for us, that has not worked. It's on us.
 
 We used to think the world was flat. Spoiler alert, it's not.
 
@@ -40,3 +41,5 @@ What does COP stand for? Choose onus plus!  (That's my opening!!!)
 To the people who know me, and I can tell you, there are some very smart cookies out there: please do everything you can to make this idea work, I know you will.
 
 Share, share, share.
+
+Once you realise that Onus will work, you can't un-realise it.
