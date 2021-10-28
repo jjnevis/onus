@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the story of how we save the world.
+## Onus is an evolving open source idea, owned and run by anyone and everyone, with the single goal of saving our wonderful planet.
+
+# This is the story of how we save the world.
 
 250 years ago a brilliant economist called Adam Smith created what would become the theory on which all economic activity is based. It was transformative and for many years created wealth and prosperity. Unbeknownst to him it had a flaw that would become a ticking time bomb. You see, Adam Smith believed that the world had an infinite capacity to absorb waste. The result of this error is that the goal of commerce became to maximise waste. Whether we like it or not, this what the global system desires. BOOM.
 
@@ -20,7 +22,7 @@ What is Onus? Onus is a system that is owned by each and everyone of us, the sol
 
 It starts with awareness. That moment when you realise this will actually work... I know how to solve the problem.
 
-EUREKA!
+# EUREKA!
 
 It's not voting for leaders that will solve it for us (although definitely keep doing that), it's not hoping that some clever scientist will solve it (although hopefully they will and Onus will enable them), it's not gluing ourselves to things, it's not switching lights off or not eating meat or planting trees or protecting the oceans, insulating houses, building wind farms...
 
@@ -30,11 +32,11 @@ Onus makes it very simple for everyone to help save the planet, so easy in fact 
 
 All you have to do is:
 
-BE IN ONUS
+# BE IN ONUS
 
 How do you be in Onus?
 
-ONLY BUY FROM PEOPLE/COMPANIES IN ONUS
+# ONLY BUY FROM PEOPLE/COMPANIES IN ONUS
 
 That's all, that's it. If everyone is in Onus then you can't sell anything unless you too are in Onus and this filters right up to the mining companies selling fossil fuels.
 
@@ -44,4 +46,5 @@ How do we start this?
 
 It has to start with awareness - tell people about onus, share on social media, discuss in the pub.
 
-Ask "Are you in Onus?" before buying things and tell them that they will have to be in Onus if they want to continue to do business in the future.
+Ask **"Are you in Onus?"** before buying things and tell them that they will have to be in Onus if they want to continue to do business in the future.
+
