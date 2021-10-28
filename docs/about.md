@@ -48,3 +48,6 @@ It has to start with awareness - tell people about onus, share on social media, 
 
 Ask **"Are you in Onus?"** before buying things and tell them that they will have to be in Onus if they want to continue to do business in the future.
 
+The real beauty of the way Onus works is that the more we pursue fossil fuels, because they are not going to be easy to give up, the harder we work at saving the planet, the solution is baked into the economic machine so we can harness the power of consumerism to save the planet, we can just increase the Onus rate. The consequence of consumerism becomes a beautiful, healthy, vibrant planet.
+
+And... relax.
