@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Onus is an evolving open source idea, owned and run by anyone and everyone, with the single goal of saving our wonderful planet.
+**This is the story of how we save the world.**
 
-# This is the story of how we save the world.
-
-250 years ago a brilliant economist called Adam Smith created what would become the theory on which all economic activity is based. It was transformative and for many years created wealth and prosperity. Unbeknownst to him it had a flaw that would become a ticking time bomb. You see, Adam Smith believed that the world had an infinite capacity to absorb waste. The result of this error is that the goal of commerce became to maximise waste. Whether we like it or not, this what the global system desires. BOOM.
+250 years ago a brilliant economist called Adam Smith created what would become the theory on which all economic activity is based. It was transformative and for many years created wealth and prosperity. Unbeknownst to him it had a flaw that would become a ticking time bomb. You see, Adam Smith believed that the world had an infinite capacity to absorb waste. The result of this error is that the goal of commerce became to maximise waste. Whether we like it or not, this what the global system desires. **BOOM.**
 
 Fortunately, some 160 years later another brilliant economist named Arthur Cecil Pigou realised this error and proposed a fix. You simply have to include the clean up cost in the overall cost of your economic activity. Unfortunately he called it a tax and because of this it has largely been ignored. Until now.
 
@@ -42,12 +40,21 @@ That's all, that's it. If everyone is in Onus then you can't sell anything unles
 
 Mining companies are a special case. In order for them to be in Onus they must also donate a percentage of the sale value of their mined product when it is first sold. That product is then branded "In Onus" which enables the mining company to declare they are In Onus and therefore eligible to sell their product.
 
+Onus bakes in the true cost of resource consumption. You don't run a kitchen without a pot washer, eventually you run out of pots, so you have to include the cost of cleaning pots when running a kitchen
+Just 1% of annual revenue from fossil fuel mining is 60 billion dollars.
+
+# **So if we set the Onus rate at 15% we have nearly 1 Trillion dollars annually to spend on saving the planet**.
+
 How do we start this?
 
 It has to start with awareness - tell people about onus, share on social media, discuss in the pub.
 
 Ask **"Are you in Onus?"** before buying things and tell them that they will have to be in Onus if they want to continue to do business in the future.
 
+Better still - [get involved and help][help] Onus succeed.
+
 The real beauty of the way Onus works is that the more we pursue fossil fuels, because they are not going to be easy to give up, the harder we work at saving the planet, the solution is baked into the economic machine so we can harness the power of consumerism to save the planet, we can just increase the Onus rate. The consequence of consumerism becomes a beautiful, healthy, vibrant planet.
 
 And... relax.
+
+[help]: /help

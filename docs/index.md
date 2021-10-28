@@ -4,4 +4,20 @@
 
 layout: home
 ---
-<img src="/assets/img/onus-plus-logo.jpg" alt="onus plus logo" >
+<br />
+<p align="center">
+  <img src="/assets/img/onus-logo.jpg" alt="onus plus logo" >
+</p>
+<br />
+
+# $1 Trillion per year to save the world...
+
+## Onus is an evolving open source idea, owned and run by anyone and everyone, with the single goal of saving our wonderful planet.
+
+[Read more about Onus here][about].
+
+<br />
+
+[about]: /about
+
+<a href="https://github.com/jjnevis/onus" target="_blank" rel="noopener noreferrer">Onus source</a>
