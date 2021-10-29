@@ -18,6 +18,9 @@ permalink: /todo/
 
 # Progressing
 - Make and post Onus Episode 1
+- set up initial website
 
 # Done
 - Set launch deadline
+- purchase onus.plus domain name
+
