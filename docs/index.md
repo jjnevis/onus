@@ -20,4 +20,4 @@ layout: home
 
 [about]: /about
 
-<a href="https://github.com/jjnevis/onus" target="_blank" rel="noopener noreferrer">Onus source</a>
+
