@@ -16,7 +16,7 @@ layout: home
 
 [Read more about Onus here][about].
 
-<br />
+<a href="https://youtu.be/ee9pYZDPLSU">You can watch episode 1: An Idea here</a>
 
 [about]: /about
 
